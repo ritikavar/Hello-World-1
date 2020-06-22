@@ -137,6 +137,7 @@
 - [Riju Pramanik](https://github.com/pramanikriju)
 - [Ritik Gupta](https://github.com/ritik-gupta)
 - [Ritika Varshney](https://github.com/ritikavar)
+- [Ritika](https://github.com/ritikavar)
 - [Rory Coleman](https://github.com/RC61)
 - [Rosario Galioto](https://github.com/tirannosario)
 - [Rounak Agarwal](https://github.com/agarwalrounak)
